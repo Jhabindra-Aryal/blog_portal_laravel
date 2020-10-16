@@ -1,0 +1,6 @@
+#Readme#
+-This is the project for posting articles using laravel framework
+-postgresql is used as database which is included named-blog_portal.sql
+-some snapshot are also included
+#Tinker is used for inserting tags for the article#
+
